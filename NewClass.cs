@@ -8,8 +8,14 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+
+            Console.WriteLine("Promjena s gita"); 
+
         }
     }
 }
+
+//Promjena u liniji 11
