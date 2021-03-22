@@ -8,7 +8,8 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+            Console.WriteLine("maja&martina");
         }
     }
 }
-maja&martina
+
